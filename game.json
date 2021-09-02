@@ -1,0 +1,1063 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectUuid": "c3ddc3ee-2192-4d68-98f8-26a5ac88093e",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Hyppy tyhjyyteen",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": true
+    },
+    "extensionProperties": [
+      {
+        "extension": "AdMob",
+        "property": "AdMobAppId",
+        "value": ""
+      }
+    ],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-0-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-0-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-5-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1.png",
+        "kind": "image",
+        "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"NewFile-1-8.png\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":128,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAABZ0lEQVR4Xu2b2w6CMBAFITHR//9aTUg0EPCCxKydmgUcn7t0ezrspZW2aZpr4+9vFWgJAMfDYRDu0nVFAm7dvmjRT0bZ6+9duQNQEgZOIwDnQgC2bt8LSNZAbOnc/cYLAASYboIAwA3IFHCK5MQHYkvh4xHgOksa7fTIeGbMFIAKKAACMDBAICa2dG4jANw8I4ARwAjwku2tAeLFzzjSFGAXMKCQcY5iDWANAA+CrAF2XAPMN/fr7LZgsFAjZOZA2kbtuwsQgDDyBGJiSwH+XAMIgACEFYgONAW8KbXeCBDZVIvAHReBAhBRQAA8CfQy6MGAR8HhqFGjhfxtFxBZijWAKcAUYAowBYALLdtAIB7NgTXs6TMEQAA2fB1c4To18w2gb2+NSj5z/fz/AALw512AAAhAZgirEcKp/9QHOj+xf0sBkbOf+Zjsjxuz5+/1oD6U6D7Z1JgbfR1MnF+DbQ0B17AO4sMNbPqaH1/BTTsAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAAA+0lEQVR4Xu2bWwrDMBAD7fsfOqWFFJqW/qyIPezkALJWGjsPyBxjHMOrbQJTANp2/xr8DYDHQC8QnsULQK/OP6YVgMblnzu/dgIcl5vGPJlqnixk/PoJIACQqn/bFAB0fXXzAlDPEK0gAOj66uYFoJ4hWkEA0PXVzQtAPUO0wn8Arq94iVH9TpBIMaYhALEomUICwOwt5loAYlEyhXwIZPYWcy0AsSiZQgLA7C3mWgBiUTKFBIDZW8y1AMSiZAoJALO3mGsBiEXJFBIAZm8x13UAYlYUWpGAAKxIfaM1BWCjMlZYEYAVqW+05hcAG3nTyo0J+HfwjWHvuNQDgCNmAVthu9IAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"C:\\\\Users\\\\Niilo Kohtala\\\\Documents\\\\GitHub\\\\Koodi3\\\\NewFile-1-8-1.png\"],\"name\":\"NewFile-1-8\",\"singleFrame\":true}}",
+        "name": "NewFile-1-8-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0-1-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-5-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-5-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Hyppy_Tyhjyyteen_theme_song.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hyppy_Tyhjyyteen_theme_song.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Hyppy_Tyhjyyteen_theme_song2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hyppy_Tyhjyyteen_theme_song2.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "layouts/images.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "layouts\\images.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0-1-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0-1-1-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1.png",
+        "kind": "image",
+        "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"NewFile-1-8.png\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":128,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAABZ0lEQVR4Xu2b2w6CMBAFITHR//9aTUg0EPCCxKydmgUcn7t0ezrspZW2aZpr4+9vFWgJAMfDYRDu0nVFAm7dvmjRT0bZ6+9duQNQEgZOIwDnQgC2bt8LSNZAbOnc/cYLAASYboIAwA3IFHCK5MQHYkvh4xHgOksa7fTIeGbMFIAKKAACMDBAICa2dG4jANw8I4ARwAjwku2tAeLFzzjSFGAXMKCQcY5iDWANAA+CrAF2XAPMN/fr7LZgsFAjZOZA2kbtuwsQgDDyBGJiSwH+XAMIgACEFYgONAW8KbXeCBDZVIvAHReBAhBRQAA8CfQy6MGAR8HhqFGjhfxtFxBZijWAKcAUYAowBYALLdtAIB7NgTXs6TMEQAA2fB1c4To18w2gb2+NSj5z/fz/AALw512AAAhAZgirEcKp/9QHOj+xf0sBkbOf+Zjsjxuz5+/1oD6U6D7Z1JgbfR1MnF+DbQ0B17AO4sMNbPqaH1/BTTsAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAgCAYAAADaInAlAAAA+0lEQVR4Xu2bWwrDMBAD7fsfOqWFFJqW/qyIPezkALJWGjsPyBxjHMOrbQJTANp2/xr8DYDHQC8QnsULQK/OP6YVgMblnzu/dgIcl5vGPJlqnixk/PoJIACQqn/bFAB0fXXzAlDPEK0gAOj66uYFoJ4hWkEA0PXVzQtAPUO0wn8Arq94iVH9TpBIMaYhALEomUICwOwt5loAYlEyhXwIZPYWcy0AsSiZQgLA7C3mWgBiUTKFBIDZW8y1AMSiZAoJALO3mGsBiEXJFBIAZm8x13UAYlYUWpGAAKxIfaM1BWCjMlZYEYAVqW+05hcAG3nTyo0J+HfwjWHvuNQDgCNmAVthu9IAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"C:\\\\Users\\\\Niilo Kohtala\\\\Documents\\\\GitHub\\\\Koodi3\\\\NewFile-1-8-1-1.png\"],\"name\":\"NewFile-1-8-1\",\"singleFrame\":true}}",
+        "name": "NewFile-1-8-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8-1-1-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8-1-1-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "100hp-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "100hp-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject5-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject5-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject5-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "name": "FoxGuy3000",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Invulvn",
+          "value": ""
+        },
+        {
+          "name": "ControlHit",
+          "value": ""
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet",
+          "FireCooldown": 0.1,
+          "HasJustFired": false
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health",
+          "Health": 100,
+          "DamageCooldown": 2,
+          "MaxHealth": 100,
+          "IsJustDamaged": false,
+          "CooldownActive": false
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "jumpSustainTime": 0.1,
+          "canGrabPlatforms": true,
+          "acceleration": 1500,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "StayOnScreen",
+          "type": "StayOnScreen::StayOnScreen",
+          "MarginTop": 0,
+          "MarginBottom": 0,
+          "MarginLeft": 0,
+          "MarginRight": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "pixil-frame-0-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": 62,
+      "name": "Laatikko",
+      "tags": "",
+      "texture": "NewFile-1-3.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 62,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+          "name": "WalkRight-2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "WalkRight-2-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+=======
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 1
+        }
+      ]
+    },
+    {
+      "height": 32,
+      "name": "InvisibleWall",
+      "tags": "",
+      "texture": "NewFile-1-13.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "name": "FoxGuyHitbox1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Invulvn",
+          "value": ""
+>>>>>>> parent of c6c9b10 (mä en tiedä mitä mä teen)
+        },
+        {
+          "name": "ControlHit",
+          "value": ""
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "NewObject3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewObject3-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SlimeCicleHitBox",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "NewObject3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewObject3-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+<<<<<<< HEAD
+    },
+    {
+      "height": 62,
+      "name": "Laatikko",
+      "tags": "",
+      "texture": "NewFile-1-3.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 62,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+=======
+>>>>>>> Stashed changes
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 1
+        }
+      ]
+    },
+    {
+      "height": 32,
+      "name": "InvisibleWall",
+      "tags": "",
+      "texture": "NewFile-1-13.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+<<<<<<< Updated upstream
+          "canBeGrabbed": true,
+=======
+          "canBeGrabbed": false,
+>>>>>>> Stashed changes
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+=======
+>>>>>>> parent of c6c9b10 (mä en tiedä mitä mä teen)
+    }
+  ],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "Knockback",
+      "value": ""
+    },
+    {
+      "name": "Invulvn",
+      "value": ""
+    },
+    {
+      "name": "ControlHit",
+      "value": ""
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/hub"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-2"
+    }
+  ],
+  "externalEvents": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/newexternalevents"
+    }
+  ],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/checkbox"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/flash"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/health"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/stayonscreen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/timedbackandforthmovement"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
